@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahzaib Habib </h1>
+## Hi 👋, I'm Shahzaib Habib
 
 - 🔭 Working as a **Full-stack Blockchain Engineer, Solutions architect & a dApp developer**!
 
